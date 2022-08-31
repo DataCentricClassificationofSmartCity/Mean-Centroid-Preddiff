@@ -7,6 +7,6 @@ Following the process, we perform cross-validation on Mean-Centroid Preddiff wit
 
 ## Files description
 
-Mean_Centroid_Preddiff_Explanation.ipynb : Source code of the algorithm. Examples are also given inside.
++ Mean_Centroid_Preddiff_Explanation.ipynb : Source code of the algorithm. Examples are also given inside.
 
-Appendix.pdf: A case study example and expeirment shows state-of-the-art XAI methods may not achieve consistency across the datasets and methods. This is a motivation to develop a new XAI method, Mean-Centroid Preddiff. 
++ Appendix.pdf: A case study example and expeirment shows state-of-the-art XAI methods may not achieve consistency across the datasets and methods. This is a motivation to develop a new XAI method, Mean-Centroid Preddiff. 
